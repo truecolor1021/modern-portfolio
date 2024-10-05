@@ -33,10 +33,13 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            I specialize in designing and developing clean, high-performance
-            websites that align with both business objectives and user needs. My
-            approach emphasizes scalability, maintainability, and responsiveness
-            across all platforms.
+            Highly skilled and motivated web developer with over 8 years of
+            experience. Strong background in web development using modern
+            JavaScript libraries such as React.js, Next.js, Node.js, and
+            TypeScript, with a passion for creating intuitive user interfaces.
+            Proficient in AWS services and CI/CD tools for deploying and
+            managing web applications in the cloud. Eager to learn and work with
+            the latest technologies.
           </motion.p>
 
           {/* btn */}

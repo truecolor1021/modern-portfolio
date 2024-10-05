@@ -3,17 +3,37 @@ import { useState } from "react";
 import CountUp from "react-countup";
 import {
   FaCss3,
-  FaFigma,
   FaHtml5,
   FaJs,
   FaReact,
   FaWordpress,
+  FaSass,
+  FaAngular,
+  FaVuejs,
+  FaBootstrap,
+  FaNodeJs,
+  FaPhp,
+  FaLaravel,
+  FaGithub,
+  FaJava,
+  FaPython,
 } from "react-icons/fa";
 import {
-  SiAdobephotoshop,
-  SiAdobexd,
-  SiFramer,
   SiNextdotjs,
+  SiJavascript,
+  SiMongodb,
+  SiMysql,
+  SiFirebase,
+  SiExpress,
+  SiFastify,
+  SiNestjs,
+  SiTailwindcss,
+  SiMaterialdesign,
+  SiChakraui,
+  SiAntdesign,
+  SiDjango,
+  SiTypescript,
+  SiGraphql,
 } from "react-icons/si";
 
 import Avatar from "../../components/Avatar";
@@ -26,33 +46,38 @@ export const aboutData = [
     title: "skills",
     info: [
       {
-        title: "Web Development",
-        icons: [
-          FaHtml5,
-          FaCss3,
-          FaJs,
-          FaReact,
-          SiNextdotjs,
-          SiFramer,
-          FaWordpress,
-        ],
+        title: "Web Framworks and Libraries",
+        icons: [FaReact, SiNextdotjs, FaAngular, FaVuejs, FaLaravel, FaPython],
       },
       {
-        title: "UI/UX Design",
-        icons: [FaFigma, SiAdobexd, SiAdobephotoshop],
+        title: "tools",
+        icons: [FaHtml5, FaCss3, FaSass, FaGithub, FaBootstrap, SiTailwindcss,SiMaterialdesign,SiChakraui,SiAntdesign],
+      },
+      {
+        title: "backend developement",
+        icons: [FaWordpress,FaPhp, FaNodeJs, SiExpress, SiNestjs, SiFastify,SiDjango,SiGraphql ],
+      },
+
+      {
+        title: "Databases",
+        icons: [SiMongodb, SiMysql, SiFirebase],
+      },
+      {
+        title: "Programing languages",
+        icons: [SiJavascript, SiTypescript],
       },
     ],
   },
   {
-    title: "awards",
+    title: "education",
     info: [
       {
-        title: "Webby Awards - Honoree",
-        stage: "2011 - 2012",
+        title: "University of Tsukuba",
+        stage: "2017 - 2019",
       },
       {
-        title: "Adobe Design Achievement Awards - Finalist",
-        stage: "2009 - 2010",
+        title: "",
+        stage: "Bachelor of Science in Software Engineering",
       },
     ],
   },
@@ -60,33 +85,20 @@ export const aboutData = [
     title: "experience",
     info: [
       {
-        title: "UX/UI Designer - XYZ Company",
-        stage: "2012 - 2023",
+        title: "FRONTEND DEVELOPER INTERN,",
+        stage: "2019",
       },
       {
-        title: "Web Developer - ABC Agency",
-        stage: "2010 - 2012",
+        title: "FONTEND DEVELOPER",
+        stage: "2019 - 2021",
       },
       {
-        title: "Intern - DEF Corporation",
-        stage: "2008 - 2010",
-      },
-    ],
-  },
-  {
-    title: "credentials",
-    info: [
-      {
-        title: "Web Development - ABC University, LA, CA",
-        stage: "2011",
+        title: "BACKEND ENGINEER",
+        stage: "2021 - 2022",
       },
       {
-        title: "Computer Science Diploma - AV Technical Institute",
-        stage: "2009",
-      },
-      {
-        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
-        stage: "2006",
+        title: "FUll-STACK ENGINEER",
+        stage: "2023 - PRESENT",
       },
     ],
   },

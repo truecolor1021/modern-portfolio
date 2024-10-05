@@ -2,14 +2,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 // icons
-import {
-  HiHome,
-  HiUser,
-  HiViewColumns,
-  // HiRectangleGroup,
-  HiChatBubbleBottomCenterText,
-  HiEnvelope,
-} from "react-icons/hi2";
+import { HiHome, HiUser, HiViewColumns, HiEnvelope } from "react-icons/hi2";
 
 // nav data
 export const navData = [
@@ -17,11 +10,6 @@ export const navData = [
   { name: "about", path: "/about", Icon: HiUser },
   // { name: "services", path: "/services", Icon: HiRectangleGroup },
   { name: "work", path: "/work", Icon: HiViewColumns },
-  {
-    name: "testimonials",
-    path: "/testimonials",
-    Icon: HiChatBubbleBottomCenterText,
-  },
   {
     name: "contact",
     path: "/contact",
