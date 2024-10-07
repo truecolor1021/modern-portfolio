@@ -14,50 +14,50 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          path: "/5.png",
+          link: "https://github.com/truecolor1021/nextjs-finalchapter-monster",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
+          path: "/6.png",
+          link: "https://github.com/truecolor1021/animation-todoapp",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
+          path: "/2.png",
+          link: "https://splashsports.com/#availability",
         },
-        {
-          title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
-        },
+        // {
+        //   title: "title",
+        //   path: "/thumb4.jpg",
+        //   link: "http://example.com",
+        // },
       ],
     },
-    {
-      images: [
-        {
-          title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
-        },
-      ],
-    },
+    // {
+    //   images: [
+    //     {
+    //       title: "title",
+    //       path: "/thumb4.jpg",
+    //       link: "http://example.com",
+    //     },
+    //     {
+    //       title: "title",
+    //       path: "/thumb1.jpg",
+    //       link: "http://example.com",
+    //     },
+    //     {
+    //       title: "title",
+    //       path: "/thumb2.jpg",
+    //       link: "http://example.com",
+    //     },
+    //     {
+    //       title: "title",
+    //       path: "/thumb3.jpg",
+    //       link: "http://example.com",
+    //     },
+    //   ],
+    // },
   ],
 };
 
