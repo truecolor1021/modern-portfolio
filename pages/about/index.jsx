@@ -112,11 +112,11 @@ export const aboutData = [
         stage: "2017 - 2019",
       },
       {
-        title: "BACKEND ENGINEER",
+        title: "FRONTEND ENGINEER",
         stage: "2019 - 2021",
       },
       {
-        title: "FUll-STACK ENGINEER",
+        title: "SENIOR FRONTEND ENGINEER",
         stage: "2021 - PRESENT",
       },
     ],
