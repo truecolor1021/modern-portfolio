@@ -27,37 +27,37 @@ const workSlides = {
           path: "/2.png",
           link: "https://splashsports.com/#availability",
         },
-        // {
-        //   title: "title",
-        //   path: "/thumb4.jpg",
-        //   link: "http://example.com",
-        // },
+        {
+          title: "title",
+          path: "/Screenshot 2024-10-09 090246.png",
+          link: "https://www.foodondeal.com/",
+        },
       ],
     },
-    // {
-    //   images: [
-    //     {
-    //       title: "title",
-    //       path: "/thumb4.jpg",
-    //       link: "http://example.com",
-    //     },
-    //     {
-    //       title: "title",
-    //       path: "/thumb1.jpg",
-    //       link: "http://example.com",
-    //     },
-    //     {
-    //       title: "title",
-    //       path: "/thumb2.jpg",
-    //       link: "http://example.com",
-    //     },
-    //     {
-    //       title: "title",
-    //       path: "/thumb3.jpg",
-    //       link: "http://example.com",
-    //     },
-    //   ],
-    // },
+    {
+      images: [
+        {
+          title: "title",
+          path: "/screencapture-thestonecollection-2019-01-30-09_40_58.png",
+          link: "https://www.thestonecollection.com",
+        },
+        {
+          title: "title",
+          path: "/Screenshot 2024-10-09 091116.png",
+          link: "https://www.seabreezechios.com",
+        },
+        {
+          title: "title",
+          path: "/Screenshot 2024-10-09 091411.png",
+          link: "https://www.nhsmun.nyc",
+        },
+        {
+          title: "title",
+          path: "/Screenshot 2024-10-09 091611.png",
+          link: "http://example.com",
+        },
+      ],
+    },
   ],
 };
 
