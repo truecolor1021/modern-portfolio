@@ -2,7 +2,6 @@ import { motion } from "framer-motion";
 
 import Bulb from "../../components/Bulb";
 import Circles from "../../components/Circles";
-import ServiceSlider from "../../components/ServiceSlider";
 import { fadeIn } from "../../variants";
 
 export const serviceData = [];
@@ -44,7 +43,7 @@ const Services = () => {
             exit="hidden"
             className="w-full xl:max-w-[65%]"
           >
-            <ServiceSlider />
+            {/* <ServiceSlider /> */}
           </motion.div>
         </div>
       </div>
