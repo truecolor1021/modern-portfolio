@@ -54,7 +54,7 @@ const workSlides = {
         {
           title: "title",
           path: "/Screenshot 2024-10-09 091611.png",
-          link: "http://example.com",
+          link: "http://",
         },
       ],
     },
